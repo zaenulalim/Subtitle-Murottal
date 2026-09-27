@@ -1,0 +1,6 @@
+{
+  "name": "Murottal Sync Studio",
+  "description": "Studio pembuatan subtitle murottal Al-Qur'an 9:16 Canvas dengan integrasi myQuran v3, audio player interaktif, dan fondasi engine sinkronisasi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

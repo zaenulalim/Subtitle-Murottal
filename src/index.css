@@ -1,0 +1,23 @@
+@import "tailwindcss";
+
+@layer utilities {
+  .font-arabic {
+    font-family: 'Amiri', 'Scheherazade New', 'Noto Naskh Arabic', serif;
+  }
+}
+
+/* Custom scrollbars for dark studio theme */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-track {
+  background: #0B0F0D;
+}
+::-webkit-scrollbar-thumb {
+  background: #1f2923;
+  border-radius: 9999px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #059669;
+}
